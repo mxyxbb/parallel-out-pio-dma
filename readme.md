@@ -1,8 +1,8 @@
 # 【树莓派Pico】16位100MHz并口高速输出数据|输出并口数据|PIO|DMA
 
-![pic](https://github.com/mxyxbb/parallel-in-pio-dma/assets/53026754/9aa75906-340e-4c0f-accf-4628bbaae57d)
-![pic1](https://github.com/mxyxbb/parallel-in-pio-dma/assets/53026754/0c733df9-b818-46f0-b546-9fe2cce0a06d)
-![pic2](https://github.com/mxyxbb/parallel-in-pio-dma/assets/53026754/1e9d720a-47ba-4378-8425-4996ca97a573)
+![pic](https://github.com/mxyxbb/parallel-out-pio-dma/assets/53026754/26171de4-fc1b-4eba-8eeb-e06e9d1557f9)
+![pic1](https://github.com/mxyxbb/parallel-out-pio-dma/assets/53026754/a62d74bf-eb1e-465c-a52d-400801682afc)
+![pic2](https://github.com/mxyxbb/parallel-out-pio-dma/assets/53026754/6d573e20-e375-42a4-814d-536ba762aea1)
 
 # 主要内容
 
