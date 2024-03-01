@@ -159,7 +159,7 @@ static inline void parallel_out_put_dma_circular(PIO pio, uint sm, uint dma_chan
 - 重新设置一下（重置）dma_chan2的读地址
 - 等待dma_chan传输完成
 - 重新设置一下（重置）dma_chan的读地址
-- 这样dma_chan2传输完成后就会触发dma_chan的传输。这样dma_chan传输完成后就会触发dma_chan2的传输。达到循环传输的目的。
+- 这样dma_chan2传输完成后就会触发dma_chan的传输。dma_chan传输完成后就会触发dma_chan2的传输。达到循环传输的目的。
 
 ```
     //CPU退休
